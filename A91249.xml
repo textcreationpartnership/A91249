@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A probable expedient for present and future publique settlement. Humbly submitted to the serious consideration and impartial trutination of all publike English spirits, cordially affecting, endeavouring the real peace, safety, tranquility, felicity of their native country in these times of general fears and distractions; by a Well-wishing Phylopater.</title>
+            <author>Well-wishing Phylopater.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91249</idno>
+            <idno type="STC">Wing P4041</idno>
+            <idno type="STC">Thomason E959_2</idno>
+            <idno type="STC">ESTC R207643</idno>
+            <idno type="EEBO-CITATION">99866682</idno>
+            <idno type="PROQUEST">99866682</idno>
+            <idno type="VID">168530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 143:E959[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A probable expedient for present and future publique settlement. Humbly submitted to the serious consideration and impartial trutination of all publike English spirits, cordially affecting, endeavouring the real peace, safety, tranquility, felicity of their native country in these times of general fears and distractions; by a Well-wishing Phylopater.</title>
+                  <author>Well-wishing Phylopater.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouember 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168530:1" rendition="simple:additions"/>
+            <p>A PROBABLE EXPEDIENT For preſent and future Publique Settlement.</p>
+            <p>HUMBLY Submitted to the <hi>Serious Conſideration</hi> and <hi>Impartial Trutination</hi> of all <hi>publike Engliſh Spirits,</hi> cordially affecting, endeavouring the real Peace, Safety, Tranquility, Felicity of their <hi>Native Country</hi> in theſe times of general <hi>Fears</hi> and <hi>Diſtractions;</hi>
+            </p>
+            <p>By a <hi>Well-wiſhing Phylopater.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 15.22.</bibl> 
+               <p>Without Counſel purpoſes are diſappointed, but in the multitude of Counſellors they are eſtabliſhed.</p>
+            </q>
+            <q>
+               <bibl>Jer. 30.18, 19, 20, 21.</bibl> 
+               <p>Behold I will bring again the Cap<g ref="char:EOLhyphen"/>tivity of <hi>Jacobs</hi> tents, and have mercy on his dwelling places, &amp;c. And their Congregation ſhall be eſtabliſhed before me, and I will pu<g ref="char:EOLhyphen"/>niſh all that oppreſs them; And their Nobles ſhall be of themſelves, and their Governors ſhall proceed from the midſt of them.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the year 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168530:2"/>
+            <pb n="1" facs="tcp:168530:2"/>
+            <head>A Probable <hi>Expedient,</hi> for preſent and future publike <hi>Settlement.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no more likely or ready Means to com<g ref="char:EOLhyphen"/>poſe the deplorable Differences, unite the ſad<g ref="char:EOLhyphen"/>ly divided Intereſts, and ſettle the long deſired Tranquillity, and fluctuating Government of the <hi>Engliſh Nation</hi> without new Commotions or Bloudſhed, than a <hi>Free Parliament duly ſum<g ref="char:EOLhyphen"/>moned and rightly conſtituted;</hi> any other form of <hi>Parliaments</hi> being more apt to <hi>augment</hi> our <hi>Diviſions, Schiſms, Diſtempers,</hi> than <hi>ſup<g ref="char:EOLhyphen"/>preſs them,</hi> and to degenerate into a <hi>Diſeaſe,</hi> in lieu of a <hi>Medi<g ref="char:EOLhyphen"/>cine,</hi> as late experiments have ſufficiently demonſtrated.</p>
+            <p>
+               <hi>How ſuch a Parliament may beſt be convened in the preſent posture of our Affairs?</hi> will be the only Queſtion.</p>
+            <p>Doubtleſs, what ever others fancy, it cannot probably be ef<g ref="char:EOLhyphen"/>fected by purſuing the late <hi>Inſtrument:</hi> 1. Becauſe it was made only by ſome <hi>Private Officers of the Army,</hi> and never ſince con<g ref="char:EOLhyphen"/>firmed, but quarrelled with and excepted againſt, even by all thoſe Conventions which have been ſummoned by it, voting di<g ref="char:EOLhyphen"/>vers Alterations therein: 2ly, Becauſe it totally <hi>excludes all the antient Peers of the Realm of their hereditary
+<note n="(a)" place="margin">5 R. 2. Stat 1. c. 4. Cook 4 Inſtit. p. 1, 4, &amp;c. 43, 44.</note> Birthright,</hi> from <hi>ſitting or voting in any Parliaments as Peers,</hi> or in any other capa<g ref="char:EOLhyphen"/>city, unleſſe they will <hi>Un-Peer</hi> themſelves, and become meer Commoners, if the people incline to elect any of them Knights, Citizens, or Burgeſſes. 3ly, For that it debarres a <hi>Great mul<g ref="char:EOLhyphen"/>titude of Freeholders of their hereditary liberty</hi> and votes in electi<g ref="char:EOLhyphen"/>ons, ratified by
+<note n="(b)" place="margin">3 E. 1. c. 5. 7 H. 4. c. 14. 1 H. 5. c. 1. 8 H. 6. c. 7. 10 H. 6. c. 2. 32 H. 6.15. 35 H. 3. c. 112</note> 
+               <hi>ſundry Acts of Parliament</hi> and Preſcription; and enables many who are no Freeholders to have voyces in E<g ref="char:EOLhyphen"/>lections, againſt all former Acts and uſage diſabling them to be Electors. 4ly, Becauſe i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuppreſſeth many antient <hi>Burroughs, Ports,</hi> and deprives them of their antient Rights
+<note n="(c)" place="margin">Magna Charta, c. 4. 5 R. 2. Stat. 2. c. 4. 32 H. 6. c. 15. Artic. ſuper Chart. 28 E. 1. c. 7. 42 E. 3. c. 1. Cook 4 Inſtir. p. 7.43. 1 In<g ref="char:EOLhyphen"/>ſtir. f. 109, 110.</note> (<hi>confirmed by the Great Charter, and ſundry Acts of Parliament,</hi> as well as <hi>Charters,</hi> and preſcription) of ſending <hi>Burgeſſes and Barons to Parliaments:</hi> 5ly, For that it incorporates and calls into the <hi>Parliament of England,</hi> both <hi>Knights, Citizens and Burgeſſes</hi> out of <hi>Scotland</hi> and <hi>Ireland,</hi> as <hi>Members, Voters, Legiſlators joyntly with the Engliſh;</hi> and conſtitutes <hi>any</hi> 60. of them a Parliament to im<g ref="char:EOLhyphen"/>poſe
+<pb n="2" facs="tcp:168530:3"/>Laws and Taxes on all Engliſh Freemen, though all or moſt of the Engliſh Knights, Citizens, Burgeſſes be ſecluded; when as by
+<note n="(d)" place="margin">Cooks Inſtit. c. 1. R. 2. c. 4. &amp; words of all old writs of Summons, PEERES, Cities, Bur<g ref="char:EOLhyphen"/>roughs, Char<g ref="char:EOLhyphen"/>ters and Pa<g ref="char:EOLhyphen"/>tents in Eng<g ref="char:EOLhyphen"/>land, Scot<g ref="char:EOLhyphen"/>land, and Ireland.</note> 
+               <hi>the Laws, Charters, Privileges of the Engliſh Nation,</hi> no <hi>Iriſh</hi> or <hi>Scotiſh</hi> Peers, Knights, Citizens or Burgeſſes may, can, or ought to ſit or vote in <hi>Engliſh Parliaments, qua tales,</hi> but the <hi>Eng<g ref="char:EOLhyphen"/>liſh only:</hi> 6ly, Becauſe it is totally repealed and ſet aſide (if ever Obligatory to the Nation in any kinde) by the la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Petition and Advice,</hi> erecting <hi>another Houſe,</hi> and a New Model of Parliaments and Proviſoes touching Elections, inconſiſtent with this <hi>In<g ref="char:EOLhyphen"/>ſtrument,</hi> now as much out of <hi>date,</hi> as <hi>tune.</hi>
+            </p>
+            <p>Neither is there any probability of ſummoning ſuch a Parlia<g ref="char:EOLhyphen"/>m nt according to the late <hi>Petition</hi> and <hi>Advice,</hi> as for the 3d, 4th and 5th precedent, ſo likewiſe for theſe enſuing reaſons. 1. For that it was made in and by an <hi>unfree,</hi> and <hi>unfull Conven<g ref="char:EOLhyphen"/>tion,</hi> from which many of the moſt conſiderable Members freely and duly elected by the people, were <hi>forcibly ſecluded,</hi> and ma<g ref="char:EOLhyphen"/>ny unduly, or not at all elected, though returned, admitted to ſit and vote in the framing thereof: Upon which Grounds ſundry thus ſecluded refuſed to ſit and vote in the ſecond <hi>Seſſion,</hi> though invited, becauſe thus unjuſtly excluded from the firſt; their free ad<g ref="char:EOLhyphen"/>miſſion at the ſecond meeting if they pleaſed, being an infallible argument they were injuriouſly and cauſeleſly excluded at the firſt, as well as their printed <hi>Proteſtations</hi> againſt it. 2ly, For that it impoſeth ſuch an <hi>Oath</hi> upon all <hi>Members</hi> before their admiſſi<g ref="char:EOLhyphen"/>on (inconſiſtent with the <hi>Petition of Right,</hi> 3 <hi>Caroli:</hi> 1 <hi>Eliz. c.</hi> 2. 5 <hi>Eliz. c.</hi> 1. 3 <hi>Jac. c.</hi> 4. 7 <hi>Jac. c.</hi> 6. and other Acts) which ſome of thoſe who ſate in the firſt Seſſion refuſed to take at the ſecond; and many firſt ſecluded proteſted they would not take: which will cauſe a great animoſity and rent if impoſed for the future, till approved, ratified by a full and free Convention. 3ly. Becauſe the <hi>other Houſe</hi> conſtituted by it, when ſummoned, was totally diſowned 1. By the Commons themſelves who crea<g ref="char:EOLhyphen"/>ted it by <hi>this Petition and Advice;</hi> yet would not acknowledged, but diſclaimed it when erected: And if theſe <hi>Creators</hi> would not own this their <hi>mungrell ill-compacted new creeture,</hi> there is no probability, that any future Knights, Citizens or Burgeſſes will approve or ſubmit unto it: 2ly, By the <hi>antient Peers,</hi> and moſt <hi>Gentlemen of Estate and Intereſt</hi> ſummoned to this <hi>other Houſe,</hi> who refuſed to ſit, or own it at the firſt, upon ſuch terms as will engage them to diſown it for the future, and not to ap<g ref="char:EOLhyphen"/>pear
+<pb n="3" facs="tcp:168530:3"/>therein though ſummoned. 3ly, By the gener lity of the people, who diſreliſhed, and made no addreſſes to it upon any occaſion. 4ly, This <hi>Houſ.</hi> and laſt Convention were thereupon ſuddenly diſſolved by him that called and conſtituted them, as ſeeing no hopes nor poſſibilities of reconciling or uniting them: Therefore none elſe can
+<note n="*" place="margin">Mar. 2.21, 22. Luke 5. 36, 37, 39.</note> poſſibly hope to peece or unite them in any New Convention ſummoned according to this <hi>Petition and Advice.</hi>
+            </p>
+            <p>The only probable, hopeful means then of ſummoning a <hi>lawful healing, uniting Engliſh Parliament,</hi> for preſent and future ſettle<g ref="char:EOLhyphen"/>ment, is now to purſue and put in uſe, the <hi>late Act for Triennial Parliaments,</hi> made <hi>Anno</hi> 16 <hi>Caroli;</hi> at the motion, proſecution of the beſt affected Lords and Commons the laſt <hi>long Parliament,</hi> yea of thoſe Lawyers now ſitting at the Helm of Juſtice, and of <hi>other Members</hi> in greateſt ſubordinate preſent power, who were imployed in the penning and paſſing thereof, extolling it, (and that deſervedly) as moſt neceſſary,
+<note n="*" place="margin">Exact col<g ref="char:EOLhyphen"/>lection, p. 14, 15, 16.</note> 
+               <hi>beneficial</hi> to the <hi>Nation;</hi> and there<g ref="char:EOLhyphen"/>fore cannot but approve it as moſt ſutable and ſeaſonable at this inſtant. <hi>This Act authorizeth any</hi> 12. <hi>or more of the antient Peers</hi> (the Hereditary Council, and Counſellors of the Realm in all former ages) <hi>to meet together in the Lords Houſe at</hi> Weſtminſter, <hi>on thè</hi> 3. <hi>Monday of</hi> November, <hi>and on and before the laſt Monday of the ſaid</hi> November, <hi>without other warrant, to iſſue out writs under their hands and Seals, in uſual form to the ſeveral and reſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctive She<g ref="char:EOLhyphen"/>riffs of the respective Counties C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties and Burroughs of</hi> England and Wales, <hi>and to the Conſtable of the Caſtle of</hi> Dover, <hi>Lord Warden of the Cinque ports, or his Lieutenant for the time being, and all other Of<g ref="char:EOLhyphen"/>ficers to whom writs have been uſually directed for the electing of Knights, Citizens, Barons and Burgeſſes</hi> (which writs they are obliged to execute under ſtricteſt penalties) <hi>to meet in Parliament in the uſual place at</hi> Weſtminſter, <hi>on the third Monday in</hi> January <hi>next enſuing. And in caſe there ſhall no ſuch Parliament be thus ſum<g ref="char:EOLhyphen"/>moned, held and aſſembled, beſore the</hi> 23. <hi>of</hi> January, <hi>that then the ſeveral and respective Sheriffs and chief Officers of every respective County, City and Burrough of</hi> England <hi>and</hi> Wales, <hi>ſhall iſſue out pre<g ref="char:EOLhyphen"/>cepts for elections, and at their ſeveral and reſpective Courts and Pla<g ref="char:EOLhyphen"/>ces held next after the ſaid</hi> 23. <hi>of</hi> January, <hi>cauſe ſuch Knights, Citi<g ref="char:EOLhyphen"/>zens and Burgeſſes for their reſpective Counties, Cities and Burroughs to be elected before the laſt day of</hi> February <hi>by ſuch perſons, and in ſuch manner, as if ſeveral writs of Summons to Parliament under the
+<pb n="4" facs="tcp:168530:4"/>Great Seal of</hi> England <hi>had been iſſued to them; who are to aſſemble in Parliament at</hi> Weſtminſter <hi>on the ſecond Tueſday of</hi> March <hi>next following.</hi> And <hi>in caſe no ſuch Precepts ſhall iſſue, nor elections be made thereon before the laſt day of</hi> February <hi>then next enſuing, that then the Freeholders, Burgeſſes, Citizens, and other perſons that ought to elect and ſend Knights, Citizens, Barons and Burgeſſes, at their ſaid ſeveral and respective Courts forthwith (and the Cities, Ports and Burroughs to whom no Precept ſhall come on the firſt Tueſday in</hi> March <hi>next enſuing the ſaid laſt day of</hi> February) <hi>ſhall proceed without fur<g ref="char:EOLhyphen"/>ther warrant, to the election of ſuch Knights, Citizens, Barons and Burgeſſes, in ſuch manner as is uſual in caſe of writs of Summons iſ<g ref="char:EOLhyphen"/>ſued and awarded; Which Knights, Citizens, Barons and Burgeſſes ſo choſen, ſhall appear and ſerve in Parliament at the time and place a<g ref="char:EOLhyphen"/>foreſaid, and be liable to ſuch pains and cenſures for their not appear<g ref="char:EOLhyphen"/>ing, as if he and they had been elected by a writ under the Great Seal of</hi> England,
+<note place="margin">Note.</note> 
+               <hi>and be ſubject to ſuch further Cenſures, as he or they ſhall be adjudged unto by the reſt there aſſembling. And in caſe any per<g ref="char:EOLhyphen"/>ſon whatſoever ſhall be ſo hardy, as to put in execution any Writ, Pro<g ref="char:EOLhyphen"/>clamation, Edict, Act, Restraint, Inhibition, or Warrant to the contrary; he is thereby ſubjected to a</hi> Praemunire, <hi>and diſabled during his life to ſue or implead any perſon in any action real or perſonal, or to make any Gift, Grant, Conveyance, or other diſpoſition of any of his Lands, Te<g ref="char:EOLhyphen"/>nements, Hereditaments, Goods or Chattels, by Act executed, will or otherwiſe; or to take any Gift, or benefit of any Gift, Cenveyance, or Legacy to his own uſe: And every Sheriff, not performing his duty in<g ref="char:EOLhyphen"/>joyned by this Act, is to foreit</hi> 1000 <hi>l. and every City</hi> 1000 <hi>l. and every City that is no County</hi> 200 <hi>l. and every Burrough and Port</hi> 100 <hi>l. to be recovered, as this Act preſcribes.</hi> If thoſe then in preſent pow<g ref="char:EOLhyphen"/>er will for their own and the publke ſafety, tranquility, vouch<g ref="char:EOLhyphen"/>ſafe to ſend for, and conferre with 12. or more of the ableſt well<g ref="char:EOLhyphen"/>affected antient Peers of the Realm, (the Hereditary <hi>Great Coun<g ref="char:EOLhyphen"/>cil of the Nation,</hi> in all times of <hi>Difficulty, danger,</hi> or <hi>Interregnums</hi>) and other Gentlemen of eſtates, intereſt, quality, who had a chief hand in paſſing this Act, and by good advice, and common aſſent, frame ſuch a Writ of Summons bearing Teſte under their hands and Seals, as may be warranted by the Letter or equity thereof, and iſſue it out on the 3d. Monday of <hi>Nav.</hi> next: Or elſe per<g ref="char:EOLhyphen"/>mit, command the Freeholders, Citizens, Burgeſſes in each Cour<g ref="char:EOLhyphen"/>ty, City, Burrough to make ſuch elections of their Knights, Citi<g ref="char:EOLhyphen"/>zens, Burgeſſes in <hi>Jan.</hi> next, as this Act appoints, and permit or
+<pb n="5" facs="tcp:168530:4"/>command the Lords to meet them at the time, place thereby preſcribed, according to the true intention of this Act, and anti<g ref="char:EOLhyphen"/>ent forms of <hi>Engliſh Parliaments:</hi> this Summons will be both ve<g ref="char:EOLhyphen"/>ry legal, and alſo take in, reconcile all diſſenting intereſts, and no Lord nor Commoner whatſoever will ſcruple, refuſe or neg<g ref="char:EOLhyphen"/>lect to meet in ſuch a Parliament, warranted by ſo good and late an Act of Parliament as this. And when they are all thus legal<g ref="char:EOLhyphen"/>ly aſſembled, ſuch Propoſal, Votes, Acts may then be made and paſſed by their joynt deliberations and aſſents, as through Gods bleſſing may ſecure, unite all I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tereſts, and procure a well-grounded Settlement, Government both in Church and State.</p>
+            <p>This will be more effectually and ſucceſsfully accompliſhed, if the Contrivers of the New writs of Summons upon this <hi>Act,</hi> ſhall inſert theſe antient Clauſes of direction to Freeholders, Citizens Burgeſſes, Sheriffs and other Officers imployed in Elections, what manner of perſons they ought to elect for Knights, Citizens, Burgeſſes and Barons of the Ports to ſerve in the next and all ſuc<g ref="char:EOLhyphen"/>ceeding Parliaments, which Limitations are frequently found in
+<note n="(e)" place="margin">Clauſ. 49 H. 3. d. 11. cl. 22 E. 3. pars 2. d. 32. 24 E. 3. pars 2. d. 3. 25 E. 3. pars 1. d. 5. 28 E. 3. d. 26. 29 E. 3. d. 8.</note> 
+               <hi>antient Writs</hi> for Parliamentary Elections: Namely, that they ſhould elect or cauſe to be elected two Knights out of eve<g ref="char:EOLhyphen"/>ry County, two Citizens out of every City, two Burgeſſes out of every Burrough, and two Barons out of every Cinque por, <hi>(De Legalioribus, probioribus, diſcretioribus, provectioribus, melioribus, valedioribus, aptioribus, magis idoneis, magis ſufficientibus, magis circumſpectis, et fide dignis Militibus, Civibus, Burgenſibus et Ba<g ref="char:EOLhyphen"/>ronibus Comitatuum, Civitatum, Burgorum, et Portuum praedictorum et ad laborandum potentioribus qui non ſunt quaerelarum manutentores, aut ex hujuſmodi quaeſtu viventes, ſed homines valentes, et bonae fidei &amp; <hi>Publicum commodum diligentes, et non alios, vel alterius conditionis</hi> quam ſuperius ſpecificatur):</hi> Of the legalleſt, honeſt<g ref="char:EOLhyphen"/>eſt, diſcreeteſt, antienteſt, beſt, ableſt, fitteſt, moſt convenient, moſt ſufficient, moſt circumſpect and truſty Knights, Citizens, Burge<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and Barons of the ſaid Counties, Cities, Burroughs and Ports, and moſt able to take pains (in attending, promoting the publike affairs in Parliament) who are no maintainers of quar<g ref="char:EOLhyphen"/>rels, or parties, nor living by diſhoneſt gain, (or the plunder, op<g ref="char:EOLhyphen"/>preſſion, or contributions of the people) but men of ability and good credit, and ſuch who love <hi>THE P<g ref="char:V">Ʋ</g>BLIKE WEAL:</hi> and that they ſhould not by any means elect others, nor perſons of any other condition than ſuch as are formerly ſpecified. What
+<pb n="6" facs="tcp:168530:5"/>happy effects a Parliament of perſons thus qualified, and duly, free<g ref="char:EOLhyphen"/>ly elected by the people according to theſe qualifications (which do not impeach the freedom, but only prevent the exorbitances of unfit elections if carefully purſued) is likely to produce for our ſettlement and eſtabliſhment through Gods bleſſing on their en<g ref="char:EOLhyphen"/>deavors, all intelligent perſons may eaſily conjecture.</p>
+            <p>When both the Nobles and people of <hi>England</hi> had been much diſcontented, impoveriſhed, oppreſſed by heavy, frequent Ayds, Taxes, to maintain the wars with <hi>France</hi> under King <hi>Edward</hi> the 3d. (who ſummoned ſundry Parliaments only or principally to demand mony, and impoſe new burdens, payments on his peo<g ref="char:EOLhyphen"/>ple, though no wayes comparable to the heavy Taxes, Exciles, Cuſtoms of late times exacted, for quantity, frequency or durati<g ref="char:EOLhyphen"/>tion) the King to regain their loſt affections and hearts, inſerted this notable Clauſe into the loſe of all his
+<note n="(f)" place="margin">Clauſ. 21 E. 1. pars 1. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6.</note> 
+               <hi>writs of Summons</hi> to Parliament iſſued to the Prelates, Nobles, Sheriffs, and War<g ref="char:EOLhyphen"/>den of the Cirque Ports, <hi>Anno</hi> 21. of his reign: (which would be extraordinarily
+<note n="*" place="margin">2 Chron. 10.4, 7.</note> gratefull to the Nobility, Clergy, Gentry and Commons at this ſeaſon;) <hi>Et ſcire vos volumus, quod dictum Parlia<g ref="char:EOLhyphen"/>mentum non ad auxilia ſeu tallagia a populo dicti Regni noſtri peten<g ref="char:EOLhyphen"/>da, vel alia onera eidem populo imponenda, ſet duntaxat pro Juſtitia ipſi populo noſtro, ſuper dampnis et gravaminibus ſibi illatis facienda, et pro tractatibus ſuper dictis Negotiis (tam Nos et statum Regni no<g ref="char:EOLhyphen"/>stri Angliae. <hi>quam Communem utilitatem Populi ejuſoem Regni noſtri</hi> contingentibus) habendis, fecimus ſummoneri.</hi> If God in his All-diſpoſing Providence ſhall graciouſly vouchſafe ef<g ref="char:EOLhyphen"/>fectu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y to incline the hearts of all the Nobility, Gentry, Offi<g ref="char:EOLhyphen"/>cers C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>izens Burgeſſes, Freeholders, Commons, Governours and Sword men of the Nation to pitch upon ſuch a writ Parliament, probable and hopefull expedient as this for preſent &amp; future Security, Peace, Settlement, (ſince a better can hardly be inven<g ref="char:EOLhyphen"/>ted) moſt likely to reconcile, unite, ſecure all the great divided Intereſts and Parties in the Land who are any way conſiderable; we may then comfortably hope, that the effect thereof, and of a Parliament ſo righteouſly ſummoned convened,
+<note n="(g)" place="margin">Iſay 32.17, 18.</note> 
+               <hi>will be quiet<g ref="char:EOLhyphen"/>neſs and aſſurance for ever; and that the people ſhall all dwell in a peaceable habitation, and in ſure dwellings, and in quiet reſting places.</hi> The ſole end of communicating this <hi>inoffenſive,</hi> if not ſeaſonable and uſefull Paper, to the conſideration and cenſure of the grave. Judgements, and all perſons moſt intereſſed in, or well affected to the Peace, Proſperity, ſecurity of the <hi>Engliſh</hi> Nation.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
